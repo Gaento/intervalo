@@ -11,7 +11,9 @@ O arquivo de entrada contém um número com ponto flutuante qualquer.
 
 ## Saída
 A saída deve ser uma mensagem conforme exemplo abaixo. 
+
 Exemplos:
+
 25.01 = Intervalo (25,50]
 
 25.00 = Intervalo [0,25]
