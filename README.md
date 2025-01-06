@@ -10,4 +10,12 @@ O símbolo ( representa "maior que". Por exemplo:
 O arquivo de entrada contém um número com ponto flutuante qualquer.
 
 ## Saída
-A saída deve ser uma mensagem conforme exemplo abaixo. *
+A saída deve ser uma mensagem conforme exemplo abaixo. 
+Exemplos:
+25.01 = Intervalo (25,50]
+
+25.00 = Intervalo [0,25]
+
+100.00 = Intervalo (75,100]
+
+-25.02 = Fora de intervalo
